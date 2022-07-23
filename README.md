@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @pollo-magico
-- 👀 I’m interested in physics and computer science
-- 🌱 I’m currently learning voxel graphics programming
+
